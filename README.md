@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 Teknolojiler & Araçlar
+### 💻 Technologies & Tools
 
 <p align="left">
   <!-- Frontend -->
@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmet-Faruk-AKSU&show_icons=true&theme=dark&hide_border=true" alt="Ahmet's GitHub Stats" height="150" />
