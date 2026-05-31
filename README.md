@@ -25,5 +25,5 @@
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetfarukaksu1&show_icons=true&theme=dark&hide_border=true" alt="Ahmet's GitHub Stats" height="150" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfarukaksu1&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
